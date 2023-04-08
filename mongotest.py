@@ -9,6 +9,16 @@ d={
     "email" : "sudhanshu@ineuron.ai",
     "surname" : "kumar"
 }
+d={
+    "name" : "sdhanshu",
+    "email" : "sudhanshu@ineuron.ai",
+    "surname" : "kumar"
+}
+d={
+    "name" : "sdhanshu",
+    "email" : "sudhanshu@ineuron.ai",
+    "surname" : "kumar"
+}
 
 db1=client["mongotest"]
 coll=db1['test']
